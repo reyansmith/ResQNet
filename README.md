@@ -124,7 +124,7 @@ ResQNet introduces several unique improvements over traditional emergency system
 	- Higher survival rate during critical situations
 
 	- Works even for non-technical users
-
+ 
 
 
 ## Setup Instructions
